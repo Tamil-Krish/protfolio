@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Standard Product ERP Module (Executive Dashboard)",
+    "desc": "Developed end-to-end application including design, database, backend logic, and dashboards. Handled requirement analysis, development, deployment, and optimization using Oracle APEX, SQL, PL/SQL.",
+    "image": "standard_erp",
+    "category": "apex",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Gym Management System",
+    "desc": "Developed a Gym Management system in Oracle APEX with modules for member registration, fees tracking & collection, attendance, and reporting. Technologies A: Oracle APEX, SQL, PL/SQL.",
+    "image": "gym_mgmt",
+    "category": "apex",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "All ERP Modules (Finance, Sales, CRM)",
+    "desc": "Designed and developed ERP solutions across modules. Built interactive dashboards with KPIs, real-time analytics, and automated refresh using Oracle SQL, Power BI, DAX.",
+    "image": "erp_modules",
+    "category": "powerbi",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
