@@ -13843,6 +13843,21 @@ textarea.form-control {
   z-index: 0;
 }
 
+span.carousel-control-prev-icon::before,
+span.carousel-control-next-icon::before {
+    content: '';
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: black;
+    border-radius: 50%;
+    z-index: -1;
+    padding: 1.5rem;
+    left: -12px;
+    top: -13px;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
